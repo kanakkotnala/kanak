@@ -1,0 +1,1 @@
+Moosefs is distributed file system which is POSIX cmpliant.
