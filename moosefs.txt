@@ -1,1 +1,1 @@
-Moosefs is distributed file system which is POSIX compliant.
+Moosefs is distributed file system which is POSIX compliant by the organization Tuxera.
